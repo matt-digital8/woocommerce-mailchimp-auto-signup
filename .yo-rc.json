@@ -1,0 +1,19 @@
+{
+  "generator-plugin-wp": {
+    "name": "Woocommerce Mailchimp auto signup",
+    "homepage": "http://www.digital8.com.au",
+    "description": "A plugin that automatically signs up users to a mailing list when they buy a particular product.",
+    "version": "0.0.1",
+    "author": "Matt, Digital8",
+    "authoremail": "matt@digital8.com.au",
+    "authorurl": "http://www.digital8.com.au/",
+    "license": "GPLv2",
+    "slug": "woocommerce-mailchimp-auto-signup",
+    "classname": "Woocommerce_Mailchimp_Auto_Signup",
+    "mainclassname": "Woocommerce_Mailchimp_Auto_Signup",
+    "classprefix": "WMAS_",
+    "prefix": "woocommerce_mailchimp_auto_signup",
+    "year": 2017,
+    "currentVersionWP": "4.7.2"
+  }
+}

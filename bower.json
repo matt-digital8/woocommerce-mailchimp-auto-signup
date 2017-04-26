@@ -1,0 +1,18 @@
+{
+  "name": "woocommerce-mailchimp-auto-signup",
+  "description": "A plugin that automatically signs up users to a mailing list when they buy a particular product.",
+  "license": "GPLv2",
+  "authors": [
+    "Matt, Digital8"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
